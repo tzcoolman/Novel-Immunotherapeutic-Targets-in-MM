@@ -1,5 +1,7 @@
 # Novel-Immunotherapeutic-Targets-in-MM
 
+![graphic abstract](images/Graphical_Abstract.pdf "Project summary")
+
 required python packages:
 ################################################
 
