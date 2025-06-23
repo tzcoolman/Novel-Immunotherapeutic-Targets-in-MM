@@ -2,7 +2,8 @@
 
 ![graphic abstract](images/graphical_x_abstract.png "Project summary")
 
-required python packages:
+required python packages
+
 ################################################
 
 Numpy==1.21.6
@@ -25,5 +26,5 @@ Put Figure4E_UMAP.py and Figure4E_input.txt under the same directory, install re
 
 Please cite:
 Utilizing Genomics to Identify Novel Immunotherapeutic Targets in Multiple Myeloma High-Risk Subgroups
-Enze Liu, Oumaima Jaouadi, Riya Sharma, Nathan Becker, Travis S. Johnson, Parvathi Sudha, Vivek S. Chopra, Faiza Zafar, Habib Hamidi, Charlotte Pawlyn, Attaya Suvannasankha, Rafat Abonour,  View ORCID ProfileBrian A. Walker
+Enze Liu, Oumaima Jaouadi, Riya Sharma, Nathan Becker, Travis S. Johnson, Parvathi Sudha, Vivek S. Chopra, Faiza Zafar, Habib Hamidi, Charlotte Pawlyn, Attaya Suvannasankha, Rafat Abonour and Brian A. Walker
 doi: https://doi.org/10.1101/2025.01.29.635544
